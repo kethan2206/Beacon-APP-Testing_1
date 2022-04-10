@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Testing2 backup/app/src/main/res/drawable/circular.xml" value="0.241" />
+        <entry key="..\:/Testing2 backup/app/src/main/res/drawable/ic_beacon_mesh.xml" value="0.241" />
+        <entry key="..\:/Testing2 backup/app/src/main/res/drawable/ic_launcher_background.xml" value="0.241" />
+        <entry key="..\:/Testing2 backup/app/src/main/res/drawable/ic_stop.xml" value="0.241" />
+        <entry key="..\:/Testing2 backup/app/src/main/res/drawable/ic_zebra_logo.xml" value="0.241" />
+        <entry key="..\:/Testing2 backup/app/src/main/res/drawable/image.xml" value="0.241" />
+        <entry key="..\:/Testing2 backup/app/src/main/res/drawable/splash_shape.xml" value="0.241" />
+        <entry key="..\:/Testing2 backup/app/src/main/res/layout/activity_login.xml" value="0.25" />
+        <entry key="..\:/Testing2 backup/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Testing2 backup/app/src/main/res/layout/activity_offer1.xml" value="0.25" />
+        <entry key="..\:/Testing2 backup/app/src/main/res/layout/activity_offer2.xml" value="0.25" />
+        <entry key="..\:/Testing2 backup/app/src/main/res/layout/activity_offer3.xml" value="0.25" />
+        <entry key="..\:/Testing2 backup/app/src/main/res/layout/activity_offers.xml" value="0.19746376811594202" />
+        <entry key="..\:/Testing2 backup/app/src/main/res/layout/activity_register.xml" value="0.25" />
+        <entry key="..\:/Testing2 backup/app/src/main/res/layout/activity_welcome.xml" value="0.19746376811594202" />
+        <entry key="..\:/Testing2 backup/app/src/main/res/layout/layout_promotion.xml" value="0.19746376811594202" />
+        <entry key="..\:/Testing2 backup/app/src/main/res/layout/list_item.xml" value="0.19746376811594202" />
+        <entry key="..\:/Testing2 backup/app/src/main/res/layout/toolbar_main.xml" value="0.19746376811594202" />
+        <entry key="..\:/Testing2 backup/app/src/main/res/menu/menu_main.xml" value="0.25" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
